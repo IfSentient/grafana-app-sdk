@@ -1,6 +1,6 @@
 # grafana-app-sdk
 
-Change for branch
+Something different
 
 ![Build Status](https://github.com/grafana/grafana-app-sdk/actions/workflows/main.yml/badge.svg) 
 ![Release Status](https://github.com/grafana/grafana-app-sdk/actions/workflows/release.yml/badge.svg)
